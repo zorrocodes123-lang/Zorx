@@ -1,24 +1,3 @@
-<header>
-
-<style>
-body {
-    background-color: white;
-    font-family: 'Cascadia Code', Consolas, monospace;
-    font-size: 16px;
-    line-height: 1.6;
-    color: gray;
-} #tag{
-    color: black;
-    font-size: 35px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    text-shadow: 1px 1px 2px gray;
-    font-family: "Ink Free", cursive;
-}
-</style>
-
-</header>
-
 <body>
 
  <div align="center">
